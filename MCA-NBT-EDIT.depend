@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1484726284 source:d:\mca-nbt-edit\allocator.cpp
+	"Allocator.h"
+	"DataTypes.h"
+	<new>
+	<assert.h>
+
+1484726302 d:\mca-nbt-edit\allocator.h
+	"DataTypes.h"
+	<stddef.h>
+
+1564328499 d:\mca-nbt-edit\datatypes.h
+	"windows.h"
+
+1564265133 source:d:\mca-nbt-edit\fault.cpp
+	"Fault.h"
+	"DataTypes.h"
+	<assert.h>
+
+1564328350 d:\mca-nbt-edit\fault.h
+
+1565560551 source:d:\mca-nbt-edit\main.cpp
+	<winsock2.h>
+	<io.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<sys/stat.h>
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<Winuser.h>
+	<assert.h>
+	<vector>
+	<cmath>
+	<time.h>
+	<dirent.h>
+	<locale.h>
+	<unistd.h>
+	<psapi.h>
+	<stdio.h>
+
+1563880227 source:d:\mca-nbt-edit\miniz.c
+	"miniz.h"
+	<sys/stat.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<sys/utime.h>
+	<utime.h>
+	<utime.h>
+	<utime.h>
+
+1563544667 d:\mca-nbt-edit\miniz.h
+	<stddef.h>
+	<time.h>
+	<assert.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1563902679 source:d:\mca-nbt-edit\myzpipe.cpp
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<zlib.h>
+	<sstream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<fcntl.h>
+	<io.h>
+
+1566381325 source:d:\mca-nbt-edit\nbt.cpp
+	"debug_memory.hpp"
+	"MCA-NBT-EDIT.HPP"
+	"stdafx.h"
+	"xallocator.h"
+	"Fault.h"
+	<new>
+	<SFML/Audio.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/System.hpp>
+	<SFML/Network.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/Network/IpAddress.hpp>
+	<winsock2.h>
+	<psapi.h>
+	<stdlib.h>
+	<stdio.h>
+	"nbt.hpp"
+	<sys/stat.h>
+	<errno.h>
+	<float.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<stdint.h>
+	<sys/types.h>
+	"minecraft.h"
+	<direct.h>
+	<sstream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iostream>
+	<dirent.h>
+
+1565558711 d:\mca-nbt-edit\debug_memory.hpp
+
+1484726284 d:\mca-nbt-edit\stdafx.h
+	"targetver.h"
+	<stdio.h>
+
+1484726284 d:\mca-nbt-edit\targetver.h
+
+1564328350 d:\mca-nbt-edit\xallocator.h
+	<stddef.h>
+	"DataTypes.h"
+
+1582799798 d:\mca-nbt-edit\nbt.hpp
+	"stdafx.h"
+	"xallocator.h"
+	"debug_memory.hpp"
+	"Fault.h"
+	<new>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"NBT_DEFS.HPP"
+
+1566380478 d:\mca-nbt-edit\minecraft.h
+
+1484726284 source:d:\mca-nbt-edit\stdafx.cpp
+	"stdafx.h"
+
+1565557398 source:d:\mca-nbt-edit\xallocator.cpp
+	"debug_memory.hpp"
+	"xallocator.h"
+	"allocator.h"
+	"Fault.h"
+	<iostream>
+
+1564324850 source:d:\mca-nbt-edit\xalloctest.cpp
+	"stdafx.h"
+	"xallocator.h"
+	"Fault.h"
+	<new>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<psapi.h>
+
+1566382546 source:d:\mca-nbt-edit\mca-nbt-edit.cpp
+	"MCA-NBT-EDIT.HPP"
+	<winsock2.h>
+
+1566380637 d:\mca-nbt-edit\mca-nbt-edit.hpp
+	"stdafx.h"
+	"xallocator.h"
+	"debug_memory.hpp"
+	"Fault.h"
+	<new>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"minecraft.h"
+	<dirent.h>
+	"NBT_DEFS.HPP"
+	<SFML/Audio.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/System.hpp>
+	<SFML/Network.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/Network/IpAddress.hpp>
+
+1566380933 d:\mca-nbt-edit\nbt_defs.hpp
+	<stddef.h>
+	<sys/stat.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	"zlib.h"
+	"miniz.h"
+

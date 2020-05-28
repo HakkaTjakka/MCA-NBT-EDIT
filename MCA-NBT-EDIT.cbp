@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MCA-NBT-EDIT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="MCA-NBT-EDIT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-w" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="DEBUG.EXE">
+				<Option output="DEBUG" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-O3" />
+			<Add option="-w" />
+		</Compiler>
+		<Linker>
+			<Add library="lib/libz.a" />
+			<Add library="lib/libpsapi.a" />
+		</Linker>
+		<Unit filename="Allocator.cpp" />
+		<Unit filename="Allocator.h" />
+		<Unit filename="DataTypes.h" />
+		<Unit filename="Fault.cpp" />
+		<Unit filename="Fault.h" />
+		<Unit filename="MCA-NBT-EDIT.CPP" />
+		<Unit filename="MCA-NBT-EDIT.HPP" />
+		<Unit filename="NBT.TXT" />
+		<Unit filename="NBT.cpp" />
+		<Unit filename="NBT_DEFS.HPP" />
+		<Unit filename="debug_memory.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="minecraft.h" />
+		<Unit filename="miniz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="miniz.h" />
+		<Unit filename="myzpipe.cpp" />
+		<Unit filename="nbt.hpp" />
+		<Unit filename="stdafx.cpp" />
+		<Unit filename="stdafx.h" />
+		<Unit filename="targetver.h" />
+		<Unit filename="xallocator.cpp">
+			<Option compiler="gcc" use="1" buildCommand="$compiler -O2 -Wall -O2  -c $file -o $object" />
+		</Unit>
+		<Unit filename="xalloctest.cpp">
+			<Option compiler="gcc" use="1" buildCommand="$compiler -O2 -Wall -O2  -c $file -o $object" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

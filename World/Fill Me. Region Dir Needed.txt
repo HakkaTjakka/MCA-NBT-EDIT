@@ -1,0 +1,1 @@
+Put large world in this dir (where the region file should be)(copy contents of directory of world to torture...)

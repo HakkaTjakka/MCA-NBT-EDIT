@@ -1,0 +1,2937 @@
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      1  Total=256
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      1  Total=256
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:    60001  Blocks In Use:  60000  Total=7680000
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 420091  Total=26885824
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 600023  Total=9600368
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 540028  Total=17280896
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   1199983  Blocks In Use: 1199983  Total=9599864
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:    59999  Blocks In Use:  59999  Total=15359744
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86455384
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   179996  Blocks In Use: 179995  Total=23039360
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   1260148  Blocks In Use: 1259958  Total=80637312
+Name: xallocator  Block Size: 16  Block Count:   1799996  Blocks In Use: 1799940  Total=28799040
+Name: xallocator  Block Size: 32  Block Count:   1620013  Blocks In Use: 1619946  Total=51838272
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   3599883  Blocks In Use: 3599880  Total=28799040
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   179994  Blocks In Use: 179994  Total=46078464
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=259191488
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:    60001  Blocks In Use:  60000  Total=7680000
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 420091  Total=26885824
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 600023  Total=9600368
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 540028  Total=17280896
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   1199983  Blocks In Use: 1199983  Total=9599864
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:    59999  Blocks In Use:  59999  Total=15359744
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86455384
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:   119999  Blocks In Use: 119998  Total=15359744
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 840077  Total=53764928
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1200003  Total=19200048
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1080010  Total=34560320
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   2399943  Blocks In Use: 2399943  Total=19199544
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:   119997  Blocks In Use: 119997  Total=30719232
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172852504
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:    60000  Blocks In Use:  59999  Total=7679872
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 419986  Total=26879104
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 599980  Total=9599680
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 539982  Total=17279424
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   1199963  Blocks In Use: 1199960  Total=9599680
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:    59998  Blocks In Use:  59998  Total=15359488
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86397248
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:    60001  Blocks In Use:  60000  Total=7680000
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   420176  Blocks In Use: 420091  Total=26885824
+Name: xallocator  Block Size: 16  Block Count:   600036  Blocks In Use: 600023  Total=9600368
+Name: xallocator  Block Size: 32  Block Count:   540049  Blocks In Use: 540028  Total=17280896
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:   1199983  Blocks In Use: 1199983  Total=9599864
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:    59999  Blocks In Use:  59999  Total=15359744
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=86455384
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:   119998  Blocks In Use: 119997  Total=15359616
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:   840162  Blocks In Use: 839972  Total=53758208
+Name: xallocator  Block Size: 16  Block Count:   1200016  Blocks In Use: 1199960  Total=19199360
+Name: xallocator  Block Size: 32  Block Count:   1080031  Blocks In Use: 1079964  Total=34558848
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:   2399923  Blocks In Use: 2399920  Total=19199360
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:   119996  Blocks In Use: 119996  Total=30718976
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=172794368
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      1  Total=256
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      1  Total=256
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+After loops:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+After no reset:
+Name: xallocator  Block Size: 128  Block Count:        4  Blocks In Use:      1  Total=128
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      211  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 16  Block Count:       86  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 32  Block Count:       94  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 2048  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 396  Block Count:        8  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 8  Block Count:       46  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 4096  Block Count:       22  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 256  Block Count:        2  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 65536  Block Count:        3  Blocks In Use:      0  Total=0
+Total=128
+*****************************************************************************************************************************************************
+
+Before read:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+After read/before loops:
+Name: xallocator  Block Size: 128  Block Count:        3  Blocks In Use:      2  Total=256
+Name: xallocator  Block Size: 32768  Block Count:        1  Blocks In Use:      0  Total=0
+Name: xallocator  Block Size: 64  Block Count:      106  Blocks In Use:    105  Total=6720
+Name: xallocator  Block Size: 16  Block Count:       43  Blocks In Use:     43  Total=688
+Name: xallocator  Block Size: 32  Block Count:       48  Blocks In Use:     46  Total=1472
+Name: xallocator  Block Size: 2048  Block Count:        1  Blocks In Use:      1  Total=2048
+Name: xallocator  Block Size: 396  Block Count:        4  Blocks In Use:      4  Total=1584
+Name: xallocator  Block Size: 8  Block Count:       23  Blocks In Use:     23  Total=184
+Name: xallocator  Block Size: 4096  Block Count:       11  Blocks In Use:     11  Total=45056
+Name: xallocator  Block Size: 256  Block Count:        1  Blocks In Use:      1  Total=256
+Total=58264
+*****************************************************************************************************************************************************
+
+Start World:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End World / start one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+
+End one:
+Name: xallocator  Block Size: 128  Block Count:        1  Blocks In Use:      1  Total=128
+Total=128
+*****************************************************************************************************************************************************
+

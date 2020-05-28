@@ -1,0 +1,5 @@
+(4)[compound] "Level" 
+[0][short] "shortTest" 32767
+[1][string](34) "stringTest" HELLO WORLD THIS IS A TEST STRING!
+[2][long] "longTest" 9223372036854775807
+[3][double] "doubleTest" 9.876543211234568400000e+008
